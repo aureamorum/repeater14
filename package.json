@@ -1,0 +1,35 @@
+{
+  "name": "repeater14",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx ts-node ./src/main.ts"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.170",
+    "@types/matter-js": "^0.17.1",
+    "@types/node": "^15.12.3",
+    "@types/weighted": "^0.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2",
+    "ts-node": "^10.0.0",
+    "tsconfig-paths": "^3.10.1",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "eventemitter3": "^4.0.7",
+    "gl-matrix": "^3.3.0",
+    "keycode": "^2.2.0",
+    "lodash": "^4.17.21",
+    "matter-js": "^0.17.1",
+    "pixi.js": "^6.0.4",
+    "poisson-process": "^1.0.0",
+    "weighted": "^0.3.0",
+    "xstate": "^4.20.0",
+    "yaml": "^1.10.2"
+  }
+}

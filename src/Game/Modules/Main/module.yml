@@ -1,0 +1,5 @@
+name: Main
+version: 0.0.1
+author: aureamorum
+plugins:
+  - Main
